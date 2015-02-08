@@ -1,1 +1,26 @@
-
+{
+  "data": [
+    {
+      "name": "Marie Rathe", 
+      "rsvp_status": "attending", 
+      "id": "1116488888332308"
+    }, 
+    {
+      "name": "Paul Turcotte", 
+      "rsvp_status": "attending", 
+      "id": "1112383388888757"
+    }, 
+    {
+      "name": "Louis-Alexandre Choquette", 
+      "rsvp_status": "attending", 
+      "id": "9999999252444498"
+    }, 
+    }
+  ], 
+  "paging": {
+    "cursors": {
+      "after": "TlRBek1EUTJNVjyhkghjkghjkghjkghjk9EUTROVGd4", 
+      "before": "TVRBd01EQTVNREfhjkghjkfghjkghjkghjkghjkghjkghjkghkNE5UZ3g="
+    }
+  }
+}

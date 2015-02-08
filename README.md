@@ -1,5 +1,5 @@
 # facebookEventGenderize
-Sort list of attending people on Facebook event by gender (offline)
+Sort list of attending people on Facebook event by gender
 
 1) Get the facebook event ID on the event URL                                                                     
 2) Go on https://developers.facebook.com/ and click Graph API Explorer in 'Tools & Support'                                
